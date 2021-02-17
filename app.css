@@ -1,0 +1,36 @@
+body.dark-theme {
+    background-color: #000000;
+}
+body.dark-theme .btn {
+    background-color: aqua;
+}
+
+body {
+    background-color: #ffffff;
+}
+body .btn {
+    background-color: blueviolet;
+}
+
+/* :root {
+    color-scheme: dark light;
+} */
+
+/* body {
+    --bg-color: #000000;
+    background-color: var(--bg-color);
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        --bg-color: #fff000;
+        background-color: var(--bg-color);
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        --bg-color: darksalmon;
+        background-color: var(--bg-color);
+    }
+} */
